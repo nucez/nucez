@@ -1,6 +1,6 @@
 # Hi, I'm Bjarne 👋  
 
-💻 **Software Engineer** | 🌐 **Founder @ [Trivox.sh](https://trivox.sh)**  
+💻 **Software Engineer**
 
 ---
 
